@@ -1,0 +1,218 @@
+[
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\CDC.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\HardwareSerial.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\IPAddress.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\PluggableUSB.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\Print.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\Stream.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\Tone.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\USBCore.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\WInterrupts.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\WMath.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\WString.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\abi.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\hooks.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\main.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\uno\\FrameworkArduino\\new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\new.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring_analog.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring_digital.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard -c -o .pio\\build\\uno\\FrameworkArduino\\wiring_pulse.S.o C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring_pulse.S.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring_pulse.c.o"
+    },
+    {
+        "command": "C:\\Users\\ff\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\uno\\FrameworkArduino\\wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "C:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c",
+        "output": ".pio\\build\\uno\\FrameworkArduino\\wiring_shift.c.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\avr\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\avr\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\avr\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\avr\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\mbed\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\mbed\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\mbed\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\mbed\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\megaavr\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\megaavr\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\megaavr\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\megaavr\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\nrf52\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\nrf52\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\nrf52\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\nrf52\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\sam\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\sam\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\sam\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\sam\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\samd\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\samd\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\samd\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\samd\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\lib0df\\Servo\\stm32f4\\Servo.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Servo\\src\\stm32f4\\Servo.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Servo\\src\\stm32f4\\Servo.cpp",
+        "output": ".pio\\build\\uno\\lib0df\\Servo\\stm32f4\\Servo.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o \".pio\\build\\uno\\lib8a1\\Adafruit Motor Shield library\\AFMotor.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio\\libdeps\\uno\\Adafruit Motor Shield library\" -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard \".pio\\libdeps\\uno\\Adafruit Motor Shield library\\AFMotor.cpp\"",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Adafruit Motor Shield library\\AFMotor.cpp",
+        "output": ".pio\\build\\uno\\lib8a1\\Adafruit Motor Shield library\\AFMotor.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\libd8e\\Neurona\\Neurona.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Neurona\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Neurona\\src\\Neurona.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Neurona\\src\\Neurona.cpp",
+        "output": ".pio\\build\\uno\\libd8e\\Neurona\\Neurona.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\libd8e\\Neurona\\arch\\MLP.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\uno\\Neurona\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard .pio\\libdeps\\uno\\Neurona\\src\\arch\\MLP.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": ".pio\\libdeps\\uno\\Neurona\\src\\arch\\MLP.cpp",
+        "output": ".pio\\build\\uno\\libd8e\\Neurona\\arch\\MLP.cpp.o"
+    },
+    {
+        "command": "avr-g++ -o .pio\\build\\uno\\src\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60107 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I.pio\\libdeps\\uno\\Neurona\\src \"-I.pio\\libdeps\\uno\\Adafruit Motor Shield library\" -I.pio\\libdeps\\uno\\Servo\\src -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\ff\\.platformio\\packages\\framework-arduino-avr\\variants\\standard src\\main.cpp",
+        "directory": "C:\\Users\\ff\\Documents\\PlatformIO\\Projects\\Peripheral31",
+        "file": "src\\main.cpp",
+        "output": ".pio\\build\\uno\\src\\main.cpp.o"
+    }
+]
